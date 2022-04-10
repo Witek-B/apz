@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.wrapper{
+    width: 80%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: red;
+    font-size: 18px;
+}
+
+
