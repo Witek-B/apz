@@ -4,6 +4,7 @@ body{
 
 .wrapper{
     width: 80%;
+    margin: 10px auto;
     height: auto;
     align-items: center;
     justify-content: center;
@@ -11,7 +12,14 @@ body{
 
 h1{
     color: red;
+    margin: auto;
     font-size: 18px;
+    align-items: center;
+    justify-content: center;
+
 }
 
 
+.quoteAuthor{
+    margin-left: 185px;
+}
